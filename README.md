@@ -48,13 +48,13 @@
    py main.py
    ```
 
-   The application will be accessible at `[http://127.0.0.1:8000](http://localhost:8900)`.
+   The application will be accessible at http://localhost:8900.
 
 
 ## Screenshots
 
 **Question Screen:**
-![Question Screenshot](path/to/Screenshot-2025-01-06-100817.png)
+<img src="https://github.com/Robben1972/IPad-Calculator-Backend/blob/main/Screenshot%202025-01-06%20100817.png"></img>
 
 **Answer Screen:**
-![Answer Screenshot](path/to/Screenshot-2025-01-06-100905.png)
+<img src="https://github.com/Robben1972/IPad-Calculator-Backend/blob/main/Screenshot%202025-01-06%20100905.png"></img>
